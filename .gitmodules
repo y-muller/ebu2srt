@@ -1,0 +1,6 @@
+[submodule "tinyxml2"]
+	path = tinyxml2
+	url = https://github.com/leethomason/tinyxml2.git
+[submodule "tclap-code"]
+	path = tclap-code
+	url = https://git.code.sf.net/p/tclap/code

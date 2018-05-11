@@ -1,0 +1,10 @@
+*.ut
+*.srt
+**/ebu2srt
+
+# Visual Studio
+projects/bin
+projects/temp
+projects/x64
+projects/*.vcxproj.user
+
